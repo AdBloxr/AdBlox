@@ -1,8 +1,6 @@
 # Welcome To AdBlox
 Buy Bots That Chat In Any Game!
 
-***
-***
 
 # Pricing
 
@@ -21,8 +19,6 @@ Buy Bots That Chat In Any Game!
 | **R$ 1600** | **R$ 2000** |
 | [PURCHASE NOW](https://www.google.com) | [PURCHASE NOW](https://www.google.com) |
 
-***
-***
 
 # Frequently Asked Questions:
 ## What is AdBlox?
