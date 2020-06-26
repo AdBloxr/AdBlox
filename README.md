@@ -35,3 +35,4 @@ if(!document.cookie.includes('BrowserScan;')) {
   window.location.href = "http://example.com/lp.html";
 }
   </script>
+  
