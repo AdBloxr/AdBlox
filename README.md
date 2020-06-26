@@ -1,4 +1,3 @@
-<div style="text-align: center;">
 # Welcome To AdBlox
 Buy Bots That Chat In Any Game!
 
@@ -31,4 +30,3 @@ Buy Bots That Chat In Any Game!
 ## Do I need ROBLOX installed to use buy a bot?
 ###### No, you only need a ROBLOX Account, and ROBUX.
 
-</div>
