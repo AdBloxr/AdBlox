@@ -1,5 +1,19 @@
 # Welcome To AdBlox
 Buy Bots That Chat In Any Game!
+# Pricing
+
+| 10 MESSAGES | 50 MESSAGES |
+| ------ | ------ |
+| R$ 20 | R$ 100 |
+
+| 100 MESSAGES | 150 MESSAGES |
+| ------ | ------ |
+| R$ 1000 | R$ 1200 |
+
+| 200 MESSAGES | 300 MESSAGES |
+| ------ | ------ |
+| R$ 1600 | R$ 2000 |
+
 # Frequently Asked Questions:
 ## What is AdBlox?
 ###### AdBlox is a website, you can buy bots that chat in any game and you can also use them to promote your game or sites.
