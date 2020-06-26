@@ -4,7 +4,7 @@ Buy Bots That Chat In Any Game!
 
 | 10 MESSAGES | 50 MESSAGES |
 | ------ | ------ |
-| R$ 20 | R$ 100 |
+| R$ 20 | R$ 100  |
 
 | 100 MESSAGES | 150 MESSAGES |
 | ------ | ------ |
