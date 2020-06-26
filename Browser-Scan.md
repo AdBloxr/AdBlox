@@ -68,7 +68,8 @@ a {
 <div style="font-size: 19px;">
   <h3>LightningBlox Ray ID: <a href="javascript:generateRay();" id="demo">Loading ID</a></h3>
   </div>
-  <script>function generateRay() {
+  <script>
+  function generateRay() {
         var hash = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ012346789";
         var random8 = '';
         for(var i = 0; i < 5; i++){
@@ -90,4 +91,6 @@ document.cookie = "BrowserScan=Passed; expires= date ";
 
          setTimeout(function(){
             window.location.href = 'https://lightningblox.github.io/AdBlox/';
-         }, 9000);</script>
+         }, 9000);
+         
+         </script>
