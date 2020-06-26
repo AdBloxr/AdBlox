@@ -29,11 +29,3 @@ Buy Bots That Chat In Any Game!
 ###### You pay using ROBUX, by buying a gamepass.
 ## Do I need ROBLOX installed to use buy a bot?
 ###### No, you only need a ROBLOX Account, and ROBUX.
-
-<script>if (document.referrer !== "http://www.stackoverflow.com") {
-    window.location.href = "http://www.google.com";
-}</script>
-
-
-
-
