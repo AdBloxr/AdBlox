@@ -2,17 +2,17 @@
 Buy Bots That Chat In Any Game!
 # Pricing
 
-| 10 MESSAGES | 50 MESSAGES |
+| `10 MESSAGES` | `50 MESSAGES` |
 | :------: | :------: |
 | R$ 20 | R$ 100 |
 | [PURCHASE NOW](https://www.google.com) | [PURCHASE NOW](https://www.google.com) |
 
-| 100 MESSAGES | 150 MESSAGES |
+| `100 MESSAGES` | `150 MESSAGES` |
 | :------: | :------: |
 | R$ 1000 | R$ 1200 |
 | [PURCHASE NOW](https://www.google.com) | [PURCHASE NOW](https://www.google.com) |
 
-| 200 MESSAGES | 300 MESSAGES |
+| `200 MESSAGES` | `300 MESSAGES` |
 | :------: | :------: |
 | R$ 1600 | R$ 2000 |
 | [PURCHASE NOW](https://www.google.com) | [PURCHASE NOW](https://www.google.com) |
