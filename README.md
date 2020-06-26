@@ -1,5 +1,6 @@
 # Welcome To AdBlox
-AdBlox! Buy Bots That Chat In Any Game!
+Buy Bots That Chat In Any Game!
+# FAQ
 ## What is AdBlox?
 ###### AdBlox is a website, you can buy bots that chat in any game and you can also use them to promote your game or sites.
 ## How do I know that the bot I bought chat in-game?
