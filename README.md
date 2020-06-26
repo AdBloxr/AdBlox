@@ -17,7 +17,7 @@ Buy Bots That Chat In Any Game!
 | `200 MESSAGES` | `300 MESSAGES` |
 | :------: | :------: |
 | **R$ 1600** | **R$ 2000** |
-| [PURCHASE NOW](https://www.google.com) | [`PURCHASE NOW`](https://www.google.com) |
+| [PURCHASE NOW](https://www.google.com) | [PURCHASE NOW](https://www.google.com) |
 
 
 # Frequently Asked Questions:
