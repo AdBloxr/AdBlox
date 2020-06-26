@@ -5,15 +5,17 @@ Buy Bots That Chat In Any Game!
 | 10 MESSAGES | 50 MESSAGES |
 | ------ | ------ |
 | R$ 20 | R$ 100 |
-| 100 MESSAGES | RECOMMENDED |
+| PURCHASE NOW | PURCHASE NOW |
 
 | 100 MESSAGES | 150 MESSAGES |
 | ------ | ------ |
 | R$ 1000 | R$ 1200 |
+| PURCHASE NOW | PURCHASE NOW |
 
 | 200 MESSAGES | 300 MESSAGES |
 | ------ | ------ |
 | R$ 1600 | R$ 2000 |
+| PURCHASE NOW | PURCHASE NOW |
 
 # Frequently Asked Questions:
 ## What is AdBlox?
