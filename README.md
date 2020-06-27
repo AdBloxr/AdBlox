@@ -31,4 +31,3 @@ Buy Bots That Chat In Any Game!
 ###### No, you only need a ROBLOX Account, and ROBUX.
 ## What if I dont pay for an order?
 ##### Your order will be canceled, and you will banned from our site.
-
