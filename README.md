@@ -7,17 +7,17 @@ Buy Bots That Chat In Any Game!
 | `10 MESSAGES` | `50 MESSAGES` |
 | :------: | :------: |
 | **R$ 20** | **R$ 100** |
-| [PURCHASE NOW](https://www.google.com) | [PURCHASE NOW](https://www.google.com) |
+| [PURCHASE NOW](https://lightningblox.neocities.org/AdBlox/LightningBloxPurchaseAPI/v4/connect:roblox.marketplace=1/purchase/index.html/index.html) | [PURCHASE NOW](https://lightningblox.neocities.org/AdBlox/LightningBloxPurchaseAPI/v4/connect:roblox.marketplace=1/purchase/index.html/index.html) |
 
 | `100 MESSAGES` | `150 MESSAGES` |
 | :------: | :------: |
 | **R$ 1000** | **R$ 1200** |
-| [PURCHASE NOW](https://www.google.com) | [PURCHASE NOW](https://www.google.com) |
+| [PURCHASE NOW](https://lightningblox.neocities.org/AdBlox/LightningBloxPurchaseAPI/v4/connect:roblox.marketplace=1/purchase/index.html/index.html) | [PURCHASE NOW](https://lightningblox.neocities.org/AdBlox/LightningBloxPurchaseAPI/v4/connect:roblox.marketplace=1/purchase/index.html/index.html) |
 
 | `200 MESSAGES` | `300 MESSAGES` |
 | :------: | :------: |
 | **R$ 1600** | **R$ 2000** |
-| [PURCHASE NOW](https://www.google.com) | [PURCHASE NOW](https://www.google.com) |
+| [PURCHASE NOW](https://lightningblox.neocities.org/AdBlox/LightningBloxPurchaseAPI/v4/connect:roblox.marketplace=1/purchase/index.html/index.html) | [PURCHASE NOW](https://lightningblox.neocities.org/AdBlox/LightningBloxPurchaseAPI/v4/connect:roblox.marketplace=1/purchase/index.html/index.html) |
 
 
 # Frequently Asked Questions:
